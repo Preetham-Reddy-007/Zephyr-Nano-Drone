@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "syslink.h": "c",
+        "nvicconf.h": "c",
+        "nrfx_twim.h": "c",
+        "i2c.h": "c",
+        "version.h": "c",
+        "platformservice.h": "c"
+    }
+}
